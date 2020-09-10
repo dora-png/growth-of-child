@@ -29,12 +29,12 @@ by generating
  *csv file for individual data
  *png file for individual curve
 
-An example of the output plots is shown in [this figure](http://github.com/Ndoumbe-Ndjinkou-Dora-Benazir/growth-of-child/tree/master/Data/Girls/curve2.png).
+An example of the output plots is shown in [this figure](http://github.com/dora-png/growth-of-child/tree/master/Data/Girls/curve2.png).
 
 Where to get it
 ---------------
 
-The source code is hosted on GitHub at: [http://github.com/Ndoumbe-Ndjinkou-Dora-Benazir/growth](http://github.com/Ndoumbe-Ndjinkou-Dora-Benazir/growth-of-child).
+The source code is hosted on GitHub at: [http://github.com/dora-png/growth](http://github.com/dora-png/growth-of-child).
 
 Dependencies
 ------------
@@ -68,7 +68,7 @@ The structure of the file is as following:
   </tr>
 </table>
 
-An example can be found [here](http://github.com/Ndoumbe-Ndjinkou-Dora-Benazir/growth-of-child/tree/master/Data/BoyDataSet.csv). 
+An example can be found [here](http://github.com/dora-png/growth-of-child/tree/master/Data/BoyDataSet.csv). 
 
 
 Background
@@ -86,7 +86,7 @@ Without doubt, more simplistic code development can be used to address this topi
 Discussion and development
 --------------------------
 
-Future features for implementation and development ideas are listed in the [TODO.md](http://github.com/Ndoumbe-Ndjinkou-Dora-Benazir/growth-of-child/tree/master/TODO.md) file.
+Future features for implementation and development ideas are listed in the [TODO.txt](http://github.com/dora-png/growth-of-child/tree/master/TODO.txt) file.
 
 Licence
 -------
