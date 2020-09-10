@@ -1,0 +1,10 @@
+TODO
+====
+
+Features to implement and development ideas
+-------------------------------------------
+
+-  add comparaison between growth curve of two differents children
+-  built an interface with control access to medical workers and parents
+-  add the concept of family growth
+
